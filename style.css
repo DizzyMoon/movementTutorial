@@ -85,7 +85,7 @@ body {
 #player {
     width: 32px;
     aspect-ratio: 16 / 20;
-    background-image: url('Characters/Character\ 1.png');
+    background-image: url('Characters/Character\ 11.png');
     background-size: 400% 400%;
     image-rendering: pixelated;
 }
